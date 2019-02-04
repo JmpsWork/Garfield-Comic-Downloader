@@ -1,7 +1,3 @@
-"""
-Actually I lied this just downloads all of the garfield comics
-"""
-
 import requests
 import os
 from bs4 import BeautifulSoup
